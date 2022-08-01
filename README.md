@@ -2,7 +2,7 @@
 ## GAS Boilerplate for bulk/batch processing items in a table with resume functionality 
 
 ### Keywords 
-#resume #spreadsheet #google-sheets #google-apps-script #trigger #batch-process #maximum-execution-time #bulk-process 
+`resume`  `spreadsheet`  `google-sheets`  `google-apps-script`  `trigger`  `batch-process`  `maximum-execution-time`  `bulk-process` 
 
 ### Functionality & Features 
 - Processes all rows on a given spreadsheet. 
